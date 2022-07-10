@@ -18,15 +18,15 @@ Three years after SIGIL was released, in 2022 the_kovic on Doomworld was able to
 
 The port for the game was made thanks to the_kovic reviewing the PWAD in [Chocorenderlimits](https://www.chocolate-doom.org/wiki/index.php/Chocorenderlimits), using the fork to see information about any parts of the map that may crash the game, they also used Chocolate Doom itself to "make sure it adheres to all the limits".
 
-Downloading and running this version of the game, that John Romero himself gave approval to, can be found [via the forum](https://www.doomworld.com/forum/topic/127672) ([or by clicking this direct link](https://www.doomworld.com/applications/core/interface/file/attachment.php?id=170902)), extracting it, and running the following command:
+Downloading and running this version of the game, which John Romero himself gave approval to, can be found [via the forum](https://www.doomworld.com/forum/topic/127672) ([or by clicking this direct link](https://www.doomworld.com/applications/core/interface/file/attachment.php?id=170902)), extracting it, and running the following command:
 
 > chocolate-doom -iwad doomu.wad -merge SIGILDOS.wad
 
 The vanilla port of SIGIL is not perfect and there are some issues that should be noted:
 
 * Multiplayer-only parts of the original maps were removed as the_kovic could not "guarantee their vanilla compatibility".
-* Due to the edits made to the maps, there will be a demos desync
-* The game will crash on startup if not played on the Ulterment Doom
+* Due to the edits made to the maps, there will be demo desync
+* The game will crash on startup if not played on the Ultimate Doom
 
 Despite this, the port is faithful to the original version of the game.
 
